@@ -46,6 +46,7 @@ nav{
 
 .nav-toggle {
   display: none;
+  margin-left : auto;
 }
 
 
@@ -401,4 +402,5 @@ section {
     display: none !important;
   }
 }
+
 
